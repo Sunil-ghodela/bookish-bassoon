@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Flask-WTF
+SQLAlchemy
+WTForms
+email_validator
+gunicorn
+python-dotenv
